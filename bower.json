@@ -1,0 +1,21 @@
+{
+  "name": "copyserver",
+  "description": "copy server",
+  "main": "",
+  "authors": [
+    "Ben Patterson <benthomaspatterson@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/BenRuns/copy-server",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8"
+  }
+}
